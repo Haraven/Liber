@@ -5,7 +5,7 @@ This is the public repository for my [Django-based](https://www.djangoproject.co
 For the most part, my progress as I write my own website from scratch.
 
 ## Why not just use something readymade if all you want is a blog?
-I want to get my hands dirty with some programming that isn't Unity C# scripting, which I currently do for my day job. Plus, if all goes well, I will be able to say that the website is truly "mine".
+I want to get my hands dirty with some programming that isn't Unity C# scripting, which I currently do for [my day job at Tractor, Set, GO!](http://tractorsetgo.com/). Plus, if all goes well, I will be able to say that the website is truly "mine".
 
 ## Why Django?
 A friend back in university mentioned having worked in Django, and I was curious to see what it was about. Plus, on their website they advertise Django as being "the Web framework for perfectionists with deadlines", which sounds right up my alley. I don't want to invest too much time on infrastructure, but I want to get it right too.
