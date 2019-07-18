@@ -1,5 +1,5 @@
 ## Liber
-This is the public repository for my Django-based blog infrastructure.
+This is the public repository for my [Django-based](https://www.djangoproject.com/) blog infrastructure.
 
 ## What am I going to see here?
 For the most part, my progress as I write my own website from scratch.
